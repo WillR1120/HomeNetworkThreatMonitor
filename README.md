@@ -25,7 +25,7 @@ Monitors your home network, captures live packets, and displays them in a clean,
 ## 📸 Preview
 ![Dashboard Screenshot](screenshots/dashboard.png)  
 
-*(Tip: Run the app and take a screenshot of the live dashboard here)*  
+ 
 
 ---
 
@@ -34,3 +34,4 @@ Monitors your home network, captures live packets, and displays them in a clean,
 ```bash
 git clone https://github.com/Willrodgers1120/HomeNetworkThreatMonitor.git
 cd HomeNetworkThreatMonitor
+
