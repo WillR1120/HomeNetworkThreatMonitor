@@ -22,16 +22,10 @@ Monitors your home network, captures live packets, and displays them in a clean,
 
 ---
 
-## 📸 Preview
-![Dashboard Screenshot](screenshots/dashboard.png)  
-
- 
-
----
-
 ## ⚙️ How to Run
 1. **Clone this repository**
 ```bash
 git clone https://github.com/Willrodgers1120/HomeNetworkThreatMonitor.git
 cd HomeNetworkThreatMonitor
+
 
